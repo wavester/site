@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: about me.
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Wavy. I mostly am known for creating **[deep dive]** and hosting additional services such as:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- [Diveflix](https://diveflix.com)
+- Various gameservers:
+  - Minecraft
+  - Sonic Robo Blast 2 Kart
 
-What else do you need?
+I also stream on [Twitch](https://twitch.tv/wavyconfirmed) every blue moon.
 
-### My story
+### Contact me
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Best way to contact me would be over my [Discord](https://discord.com/invite/AUHcAgNP9P) server or via [E-mail](mailto:info@wavy.rocks)

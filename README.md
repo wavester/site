@@ -1,2 +1,2 @@
-# Wavy's personal page
-### My website used for blogging stupid shit that no one cares about lol.
+# wavy's little internet corner
+### everything about the man himself.

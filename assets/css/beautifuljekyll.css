@@ -27,6 +27,11 @@ p {
   margin: 1.875rem 0;
 }
 
+.navbar-custom .navbar-nav li.nav-item a[href*="ko-fi.com/diveflix"] {
+  color: #9c6f44;
+  transition: background 300ms, color 300ms;
+}
+
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;

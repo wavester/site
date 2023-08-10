@@ -37,7 +37,7 @@ feed_show_tags: true
 
 post_search: true
 
-edit_page_button: true
+edit_page_button: false
 
 navbar-var-length: false
 navbar-col: "#27374D"

@@ -7,7 +7,7 @@ subtitle:
 My name is Wavy. I mostly am known for creating **[deep dive]** and hosting additional services such as:
 
 - [Diveflix](https://diveflix.com)
-- [Various gameservers:](servers)
+- [Various gameservers:](/servers)
   - Minecraft
   - Sonic Robo Blast 2 Kart
 

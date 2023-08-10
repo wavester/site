@@ -1,2 +1,3 @@
 # wavy's little internet corner
-### everything about the man himself.
+### my personal webpage.
+![](assets/img/screenshot.png)

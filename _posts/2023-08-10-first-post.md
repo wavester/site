@@ -2,7 +2,7 @@
 layout: post
 title: first post.
 subtitle: a new beginning.
-cover-img: /assets/img/template_related_content_grid_720x444.jpg
+cover-img: /assets/img/banner_wave.jpg
 thumbnail-img: /assets/img/template_related_content_grid_720x444.jpg
 share-img: /assets/img/template_related_content_grid_720x444.jpg
 tags: [first, post, exciting]

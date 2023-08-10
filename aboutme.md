@@ -3,6 +3,7 @@ layout: page
 title: about me.
 subtitle: 
 ---
+## who am i?
 
 My name is Wavy. I mostly am known for creating **[deep dive]** and hosting additional services such as:
 
@@ -13,6 +14,6 @@ My name is Wavy. I mostly am known for creating **[deep dive]** and hosting addi
 
 I also stream on [Twitch](https://twitch.tv/wavyconfirmed) every blue moon.
 
-### Contact me
+### contact me.
 
 Best way to contact me would be over my [Discord](https://discord.com/invite/AUHcAgNP9P) server or via [E-mail](mailto:info@wavy.rocks).

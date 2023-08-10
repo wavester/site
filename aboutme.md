@@ -15,4 +15,4 @@ I also stream on [Twitch](https://twitch.tv/wavyconfirmed) every blue moon.
 
 ### Contact me
 
-Best way to contact me would be over my [Discord](https://discord.com/invite/AUHcAgNP9P) server or via [E-mail](mailto:info@wavy.rocks)
+Best way to contact me would be over my [Discord](https://discord.com/invite/AUHcAgNP9P) server or via [E-mail](mailto:info@wavy.rocks).

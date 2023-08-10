@@ -2,7 +2,7 @@
 layout: post
 title: first post.
 subtitle: a new beginning.
-cover-img: /assets/img/banner_wave.jpg
+cover-img:
 thumbnail-img: /android-chrome-192x192.png
 share-img: /android-chrome-192x192.png
 tags: [first, post, exciting]
